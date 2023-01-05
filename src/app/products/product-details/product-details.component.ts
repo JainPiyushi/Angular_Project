@@ -1,7 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { Product } from 'src/app/models/Product';
+import { Products } from 'src/app/models/products';
 import { ProductService } from 'src/app/services/product/product.service';
+import { MessengerService } from 'src/app/services/messenger/messenger.service';
+import { CartService } from 'src/app/services/cart/cart.service';
 
 @Component({
   selector: 'app-product-details',
@@ -13,8 +15,9 @@ export class ProductDetailsComponent implements OnInit {
   pId: number;
   product: any;
   allProds: any = [];
-
-  constructor(private productService: ProductService, private route: ActivatedRoute) {
+  @Input() 
+  productItem!:Products
+  constructor(private productService: ProductService, private route: ActivatedRoute, private msg: MessengerService, private cartService: CartService) {
     this.pId = 0;
     this.product = {}
   }
@@ -27,5 +30,10 @@ export class ProductDetailsComponent implements OnInit {
         .subscribe(prod => this.product = prod.valueOf());
     });
 
+  }
+  handleAddToCart() {
+    this.cartService.addProductToCart(this.product).subscribe(() => {
+      this.msg.sendMsg(this.product)
+    })
   }
 }
