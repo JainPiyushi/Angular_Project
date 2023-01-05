@@ -93,46 +93,46 @@
   ],
   "products": [
     {
-      "id": 10001,
-      "price": 49000,
-      "productName": "oneplus mobile phone",
-      "description": "good mobile phone at this price",
-	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603319014/cutie-dog_purple_jxlo82.jpg"
-    },
-    {
-      "id": 10002,
-      "price": 95000,
-      "productName": "dell laptop",
-      "description": "very good laptop for development",
-	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318980/cute-owl_purple_navcqu.jpg"
-    },
-    {
-      "id": 10003,
-      "price": 49000,
-      "productName": "Nikon Camera",
-      "description": "good camera for great pics",
+      "id": 101,
+      "price": 490,
+      "productName": "Blue Shirt",
+      "description": "Blue Shirt with print",
 	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
     },
     {
-      "id": 10004,
-      "price": 49000,
-      "productName": "Apple watch",
-      "description": "Not just watch, its much more!",
-	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603319074/teddy-bear_pink_navkta.jpg"
+      "id": 102,
+      "price": 950,
+      "productName": "Red Sweatshirt",
+      "description": "Plain Red Sweatshirt",
+	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
     },
     {
-      "id": 10005,
-      "price": 49000,
-      "productName": "Bose Speakers",
-      "description": "Legendary speakers played on yout BT",
-	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318985/cute-owl_pink_ltj92x.jpg"
+      "id": 103,
+      "price": 2000,
+      "productName": "Blue Jeans",
+      "description": "Plain Blue Jeans",
+	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
     },
     {
-      "id": 10006,
-      "price": 56000,
-      "productName": "Samsung phone",
-      "description": "Quality phone at affordable price",
-	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603401003/my-home_purple_ct68mm.jpg"
+      "id": 104,
+      "price": 1700,
+      "productName": "Black Jeans",
+      "description": "Ripped Black Jeans",
+	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
+    },
+    {
+      "id": 105,
+      "price": 490,
+      "productName": "Yellow Sweater",
+      "description": "Yellow Sweater with graphics",
+	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
+    },
+    {
+      "id": 106,
+      "price": 560,
+      "productName": "White Top",
+      "description": "Plain White Top",
+	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
     }
   ]
 }

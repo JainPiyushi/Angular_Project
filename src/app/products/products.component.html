@@ -8,18 +8,16 @@
     </div>
     <div class="row">
         <div class="col-md-4 my-3 py-3" *ngFor="let product of productsList">
-            <div class="card bg-dark border border-light" style="width: 18rem;">
+            <div class="card bg-dark border border-dark" style="width: 18rem;">
                 <img src="{{product.imgUrl}}" class="card-img-top" alt="{{product.productName}}">
                 <div class="card-body">
                     <h5 class="card-title">{{product.productName}}</h5>
                     <p class="card-text">{{product.price}}</p>
                     <p class="card-text">{{product.description}}</p>
-                    <a class="btn btn-primary"
-                        [routerLink]="['/product-details', product.id]">{{product.productName}}</a>
+                    <a class="btn btn-light"
+                        [routerLink]="['/product-details', product.id]">Know More</a>
                 </div>
             </div>
-            <!-- <a [routerLink]="['/product-details', product.id]">{{product.productName}}</a>
-            <span>{{ product.productName }} {{ product.price }} {{ product.description }}</span> -->
         </div>
     </div>
 </div>
