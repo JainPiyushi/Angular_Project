@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "userName": "sonu",
+      "password": "sonu",
+      "id": 1001
+    },
+    {
+      "userName": "monu",
+      "password": "monu",
+      "id": 1002
+    },
+    {
+      "userName": "vaman",
+      "password": "vaman",
+      "id": 1003
+    },
+    {
+      "userName": "asdf",
+      "password": "asdf",
+      "id": 1004
+    },
+    {
+      "userName": "anil",
+      "password": "anil",
+      "id": 1005
+    },
+    {
+      "userName": "sunil",
+      "password": "sunil",
+      "id": 1006
+    },
+    {
+      "userName": "anila",
+      "password": "anila",
+      "id": 1007
+    },
+    {
+      "userName": "isha",
+      "password": "isha",
+      "id": 1009
+    },
+    {
+      "userName": "vamandeshmukh",
+      "password": "vamandeshmukh",
+      "id": 1012
+    },
+    {
+      "userName": "ravan",
+      "password": "ravan",
+      "id": 1013
+    },
+    {
+      "userName": "shilpa",
+      "password": "shilpa",
+      "id": 1014
+    },
+    {
+      "userName": "nilu",
+      "password": "nilu",
+      "id": 1015
+    },
+    {
+      "userName": "pooja",
+      "password": "pooja",
+      "id": 1016
+    },
+    {
+      "userName": "pappi",
+      "password": "pappi",
+      "id": 1017
+    },
+    {
+      "userName": "soni",
+      "password": "soni",
+      "id": 1018
+    },
+    {
+      "userName": "aman",
+      "password": "aman",
+      "id": 1019
+    },
+    {
+      "userName": "kasyap",
+      "password": "kasyap",
+      "id": 1020
+    },
+    {
+      "userName": "padma",
+      "password": "padma",
+      "id": 1021
+    }
+  ],
+  "products": [
+    {
+      "id": 10001,
+      "price": 49000,
+      "productName": "oneplus mobile phone",
+      "description": "good mobile phone at this price",
+	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603319014/cutie-dog_purple_jxlo82.jpg"
+    },
+    {
+      "id": 10002,
+      "price": 95000,
+      "productName": "dell laptop",
+      "description": "very good laptop for development",
+	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318980/cute-owl_purple_navcqu.jpg"
+    },
+    {
+      "id": 10003,
+      "price": 49000,
+      "productName": "Nikon Camera",
+      "description": "good camera for great pics",
+	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
+    },
+    {
+      "id": 10004,
+      "price": 49000,
+      "productName": "Apple watch",
+      "description": "Not just watch, its much more!",
+	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603319074/teddy-bear_pink_navkta.jpg"
+    },
+    {
+      "id": 10005,
+      "price": 49000,
+      "productName": "Bose Speakers",
+      "description": "Legendary speakers played on yout BT",
+	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318985/cute-owl_pink_ltj92x.jpg"
+    },
+    {
+      "id": 10006,
+      "price": 56000,
+      "productName": "Samsung phone",
+      "description": "Quality phone at affordable price",
+	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603401003/my-home_purple_ct68mm.jpg"
+    }
+  ]
+}
