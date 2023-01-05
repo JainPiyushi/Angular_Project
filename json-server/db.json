@@ -1,94 +1,19 @@
 {
   "users": [
     {
-      "userName": "sonu",
-      "password": "sonu",
-      "id": 1001
+      "userName": "admin",
+      "password": "admin",
+      "id": 1
     },
     {
-      "userName": "monu",
-      "password": "monu",
-      "id": 1002
+      "userName": "user1",
+      "password": "user1",
+      "id": 2
     },
     {
-      "userName": "vaman",
-      "password": "vaman",
-      "id": 1003
-    },
-    {
-      "userName": "asdf",
-      "password": "asdf",
-      "id": 1004
-    },
-    {
-      "userName": "anil",
-      "password": "anil",
-      "id": 1005
-    },
-    {
-      "userName": "sunil",
-      "password": "sunil",
-      "id": 1006
-    },
-    {
-      "userName": "anila",
-      "password": "anila",
-      "id": 1007
-    },
-    {
-      "userName": "isha",
-      "password": "isha",
-      "id": 1009
-    },
-    {
-      "userName": "vamandeshmukh",
-      "password": "vamandeshmukh",
-      "id": 1012
-    },
-    {
-      "userName": "ravan",
-      "password": "ravan",
-      "id": 1013
-    },
-    {
-      "userName": "shilpa",
-      "password": "shilpa",
-      "id": 1014
-    },
-    {
-      "userName": "nilu",
-      "password": "nilu",
-      "id": 1015
-    },
-    {
-      "userName": "pooja",
-      "password": "pooja",
-      "id": 1016
-    },
-    {
-      "userName": "pappi",
-      "password": "pappi",
-      "id": 1017
-    },
-    {
-      "userName": "soni",
-      "password": "soni",
-      "id": 1018
-    },
-    {
-      "userName": "aman",
-      "password": "aman",
-      "id": 1019
-    },
-    {
-      "userName": "kasyap",
-      "password": "kasyap",
-      "id": 1020
-    },
-    {
-      "userName": "padma",
-      "password": "padma",
-      "id": 1021
+      "userName": "user2",
+      "password": "user2",
+      "id": 3
     }
   ],
   "products": [
