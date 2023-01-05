@@ -22,42 +22,42 @@
       "price": 490,
       "productName": "Blue Shirt",
       "description": "Blue Shirt with print",
-	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
+	  "imgUrl": "https://res.cloudinary.com/dmfaavyu9/image/upload/v1672935440/ef3-placeholder-image_ckbxr0.jpg"
     },
     {
       "id": 102,
       "price": 950,
       "productName": "Red Sweatshirt",
       "description": "Plain Red Sweatshirt",
-	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
+	  "imgUrl": "https://res.cloudinary.com/dmfaavyu9/image/upload/v1672935440/ef3-placeholder-image_ckbxr0.jpg"
     },
     {
       "id": 103,
       "price": 2000,
       "productName": "Blue Jeans",
       "description": "Plain Blue Jeans",
-	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
+	  "imgUrl": "https://res.cloudinary.com/dmfaavyu9/image/upload/v1672935440/ef3-placeholder-image_ckbxr0.jpg"
     },
     {
       "id": 104,
       "price": 1700,
       "productName": "Black Jeans",
       "description": "Ripped Black Jeans",
-	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
+	  "imgUrl": "https://res.cloudinary.com/dmfaavyu9/image/upload/v1672935440/ef3-placeholder-image_ckbxr0.jpg"
     },
     {
       "id": 105,
       "price": 490,
       "productName": "Yellow Sweater",
       "description": "Yellow Sweater with graphics",
-	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
+	  "imgUrl": "https://res.cloudinary.com/dmfaavyu9/image/upload/v1672935440/ef3-placeholder-image_ckbxr0.jpg"
     },
     {
       "id": 106,
       "price": 560,
       "productName": "White Top",
       "description": "Plain White Top",
-	  "imgUrl": "https://res.cloudinary.com/keyist/image/upload/v1603318858/baby-bear_orange_ou70cv.jpg"
+	  "imgUrl": "https://res.cloudinary.com/dmfaavyu9/image/upload/v1672935440/ef3-placeholder-image_ckbxr0.jpg"
     }
   ]
 }
