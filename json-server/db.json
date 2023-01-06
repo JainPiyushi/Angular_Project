@@ -60,16 +60,5 @@
       "imgUrl": "https://res.cloudinary.com/dmfaavyu9/image/upload/v1672935440/ef3-placeholder-image_ckbxr0.jpg"
     }
   ],
-  "cart": [
-    {
-      "product": {
-        "id": 101,
-        "price": 490,
-        "productName": "Blue Shirt",
-        "description": "Blue Shirt with print",
-        "imgUrl": "https://res.cloudinary.com/dmfaavyu9/image/upload/v1672935440/ef3-placeholder-image_ckbxr0.jpg"
-      },
-      "id": 1
-    }
-  ]
+  "cart": []
 }
