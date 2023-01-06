@@ -1,6 +1,15 @@
 <div class="cart-item">
+    <div class="row">
+<div class="col-md-9">
     <span>{{ cartItem.productName }}</span> x
     <span>{{ cartItem.qty }}</span>:
     <strong>{{ (cartItem.qty * cartItem.price) | currency:'INR' }}</strong>
+</div>
+    
+    <div class="col-md-2">
+        <button type="button" class="btn btn-sm btn-primary product-btn" (click)="cancelItem(cartItem.id)">Cancel Item</button>
+
+    </div>
+</div>
   </div>
   

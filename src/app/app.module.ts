@@ -15,6 +15,7 @@ import { RegisterComponent } from './register/register.component';
 import { HomeComponent } from './home/home.component';
 import { CartComponent } from './cart/cart.component';
 import { CartItemComponent } from './cart/cart-item/cart-item.component';
+import { OrderPlacedComponent } from './order-placed/order-placed.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { CartItemComponent } from './cart/cart-item/cart-item.component';
     RegisterComponent,
     HomeComponent,
     CartComponent,
-    CartItemComponent
+    CartItemComponent,
+    OrderPlacedComponent
   ],
   imports: [
     BrowserModule,

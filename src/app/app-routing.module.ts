@@ -10,6 +10,7 @@ import { LogoutComponent } from './logout/logout.component';
 import { RegisterComponent } from './register/register.component';
 import { ProductsComponent } from './products/products.component';
 import { ProductDetailsComponent } from './products/product-details/product-details.component';
+import { OrderPlacedComponent } from './order-placed/order-placed.component';
 // import { AuthGuard } from './services/authorization/auth-guard';
 
 const routes: Routes = [
@@ -23,7 +24,7 @@ const routes: Routes = [
   { path: 'products', component: ProductsComponent },
   { path: 'product-details/:id', component: ProductDetailsComponent },
   { path: 'register', component: RegisterComponent },
-  
+  { path: 'order-placed', component: OrderPlacedComponent },
 ];
 
 @NgModule({
