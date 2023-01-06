@@ -6,9 +6,8 @@
     <strong>{{ (cartItem.qty * cartItem.price) | currency:'INR' }}</strong>
 </div>
     
-    <div class="col-md-2">
-        <button type="button" class="btn btn-sm btn-primary product-btn" (click)="cancelItem(cartItem.id)">Cancel Item</button>
-
+    <div class="col-md-3">
+        <button type="button" class="btn btn-sm btn-danger product-btn"  style="display: block;margin-left: auto; margin-right: 0;" (click)="cancelItem(cartItem.id)">X</button>
     </div>
 </div>
   </div>

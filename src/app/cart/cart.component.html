@@ -4,15 +4,11 @@
   <li class="list-group-item" *ngFor="let item of cartItems">
     <app-cart-item [cartItem]="item"></app-cart-item>
   </li>
-
-  <li class="list-group-item active">
-    <strong>Total</strong> {{ cartTotal | currency:'INR' }}
+  <li class="list-group-item">
+    <div style="text-align: right;">
+      <strong>Total:</strong> {{ cartTotal | currency:'INR' }}
+    </div>
+    <button [routerLink]="['/order-placed']" class="btn btn-primary product-btn" style="display: block;margin-right: 0; margin-left: auto;">Place Order</button>
   </li>
-  <!-- <li class="list-group-item active">
-    <button type="button" class="btn btn-sm btn-primary product-btn" (click)="placeOrder()">Place Order</button>
-  </li> -->
-  <li class="nav-item">
-    <button [routerLink]="['/order-placed']" class="btn btn-sm btn-primary product-btn">Place Order</button>
-</li>
 </ul>
 
