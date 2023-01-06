@@ -70,26 +70,6 @@
         "imgUrl": "https://res.cloudinary.com/dmfaavyu9/image/upload/v1672935440/ef3-placeholder-image_ckbxr0.jpg"
       },
       "id": 1
-    },
-    {
-      "product": {
-        "id": 101,
-        "price": 490,
-        "productName": "Blue Shirt",
-        "description": "Blue Shirt with print",
-        "imgUrl": "https://res.cloudinary.com/dmfaavyu9/image/upload/v1672935440/ef3-placeholder-image_ckbxr0.jpg"
-      },
-      "id": 2
-    },
-    {
-      "product": {
-        "id": 102,
-        "price": 950,
-        "productName": "Red Sweatshirt",
-        "description": "Plain Red Sweatshirt",
-        "imgUrl": "https://res.cloudinary.com/dmfaavyu9/image/upload/v1672935440/ef3-placeholder-image_ckbxr0.jpg"
-      },
-      "id": 3
     }
   ]
 }

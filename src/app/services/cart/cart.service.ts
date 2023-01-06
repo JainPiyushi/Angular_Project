@@ -47,6 +47,9 @@ cartUrl:string = "http://localhost:12345/cart";
   }
 
   emptyCart(){
-    return this.http.delete(this.cartUrl);
+    return this.http.delete('${this.cartUrl}');
+  }
+  deleteItem(pid:number){
+    return this.http.delete(`${this.cartUrl}/${pid}`);
   }
 }
